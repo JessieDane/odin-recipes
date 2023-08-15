@@ -14,3 +14,8 @@ the recipe pages and linking those to the index, manipulating the text within th
 
 Jessie D.
 
+Mid note.
+i have made the pages, i've tried to fix typo's and errors on the way, but i will proof read it all definitively at the end.
+i didn't get the img links (with the exception of the odin logo on the index) to work for some reason, which i will see to at a later moment.
+
+
