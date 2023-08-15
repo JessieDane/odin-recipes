@@ -1,6 +1,6 @@
 # odin-recipes
 
-Okay, here we are! the assignment of the html-basics of the oding project!
+Okay, here we are! the assignment of the html-basics of the odin project!
 i've had to take a couple days off for some much needed maintenance on my residence.
 i am lately more interested in taking a conscience stance toward my diet, so i probably will expand these later on.
 now, onward to the assignment!
