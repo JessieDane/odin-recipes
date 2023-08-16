@@ -18,4 +18,15 @@ Mid note.
 i have made the pages, i've tried to fix typo's and errors on the way, but i will proof read it all definitively at the end.
 i didn't get the img links (with the exception of the odin logo on the index) to work for some reason, which i will see to at a later moment.
 
+Jessie D.
 
+End note.
+i still don't know why the img links did't work, but i rewrote the img links and they work now.
+
+final thoughts.
+it was a fun excersize to do, it went better then i thought i could handle.
+however, in hindsight i should have went with the 'suggestion' recipes instead of making my own.
+i could have finished this way faster if i didn't had the creativity hill to climb.
+again it was fun, it refreshed my mind about git aswel, which escaped me at the start.
+
+Jessie D.
