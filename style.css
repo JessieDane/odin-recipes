@@ -26,3 +26,9 @@
     width:400px;
 }
 
+.list li {
+    color:green;
+    font-size:18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
