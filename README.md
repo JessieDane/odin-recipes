@@ -1,5 +1,6 @@
 # odin-recipes
 
+starting note.
 Okay, here we are! the assignment of the html-basics of the odin project!
 i've had to take a couple days off for some much needed maintenance on my residence.
 i am lately more interested in taking a conscience stance toward my diet, so i probably will expand these later on.
@@ -31,3 +32,10 @@ i also didn't follow the assignment to the letter, i had the idea and just went 
 again it was fun, it refreshed my mind about git aswel, which escaped me at the start.
 
 Jessie D.
+
+-----------------
+css exercise.
+
+starting note.
+in this exercise i need to style the recipe pages using the external method of using css.
+learning from my previous mistake,the actual style isn't important, this isn't a fashion competition. i do need to demonstrate i can add and work with css to a basic degree.

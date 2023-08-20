@@ -1,0 +1,28 @@
+
+
+* {
+    color:#00ffff;
+    background-color:black;
+}
+.text {
+    color:#00ffff;
+    font-weight:bold;
+    font-size: 22px;
+    font-family:Helvetica, sans-serif;
+}
+
+.links {
+    color:#8a2be2;
+    background-color:#ffffff;
+}
+
+#excuse {
+    color:yellow;
+    background-color:red;
+}
+
+.odin {
+    height:auto;
+    width:400px;
+}
+
