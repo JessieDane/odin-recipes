@@ -19,6 +19,7 @@
 #excuse {
     color:yellow;
     background-color:red;
+    font-size:22px;
 }
 
 .odin {
@@ -32,3 +33,8 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+.note {
+    color:yellow;
+    background-color:red;
+    font-weight:700;
+}

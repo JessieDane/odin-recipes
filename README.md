@@ -39,3 +39,18 @@ css exercise.
 starting note.
 in this exercise i need to style the recipe pages using the external method of using css.
 learning from my previous mistake,the actual style isn't important, this isn't a fashion competition. i do need to demonstrate i can add and work with css to a basic degree.
+
+Jessie D.
+
+end note.
+i couldn't get to work a specific piece of text in different color.
+i eventually circumvented the issue by giving it it's own designation.
+i did also put in some "<!-notes->" to explain why i kept certain inconsistenties.
+
+Jessie D.
+
+final thoughts.
+rewarding, but i do need more time spend on figuring out the cascade of css.
+i understand the principle, but in practise this hasn't settled yet.
+
+Jessie D.
