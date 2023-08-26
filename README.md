@@ -29,7 +29,7 @@ it was a fun assignment to do, it went better then i thought i could handle.
 however, in hindsight i should have went with the 'suggestion' recipes instead of making my own.
 i could have finished this way faster if i didn't had the creativity hill to climb.
 i also didn't follow the assignment to the letter, i had the idea and just went with it.
-again it was fun, it refreshed my mind about git aswel, which escaped me at the start.
+again it was fun, it refreshed my mind about git as wel, which escaped me at the start.
 
 Jessie D.
 
@@ -45,13 +45,13 @@ Jessie D.
 end note.
 i couldn't get to work a specific piece of text in different color.
 i eventually circumvented the issue by giving it it's own designation.
-i did also put in some "<!-notes->" to explain why i kept certain inconsistenties.
+i did also put in some "<!-notes->" to explain why i kept certain inconsistencies.
 
 Jessie D.
 
 final thoughts.
 rewarding, but i do need more time spend on figuring out the cascade of css.
-i understand the principle, but in practise this hasn't settled yet.
+i understand the principle, but in practice this hasn't settled yet.
 
 Jessie D.
 
@@ -64,3 +64,37 @@ after this i hope to have a better feel for it.
 let's get to it!
 
 Jessie D.
+
+end note.
+despite having no idea or artistic inclination, i did managed to put in some visual adjustments, corresponding to the learned material.
+nothing much to add, which will not be in my final thoughts.
+
+Jessie D.
+
+final thoughts.
+as i said in the end note, i had no clue where i would end up, but the exercises aren't meant to get a beautiful result, but rather a working understanding of what you are actually doing.
+nobody cares if the colors don't match, so long the code works properly and as intended.
+i did it in a single sitting, i was kind of caught up by it, and didn't even commit to git in between.
+i did found it flowed more freely then it did yesterday, when i felt with another exercise i had failed the assignment, due to not knowing what tools to use in that particular problem.
+as this was more open ended, i felt more free to go about it on my own choosing.
+
+ps.now that i read the assignment again, it was apparently only needed to apply it to the index.html..
+well, no harm done i suppose.
+
+Jessie D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
