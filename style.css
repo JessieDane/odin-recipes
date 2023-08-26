@@ -1,40 +1,78 @@
 
 
 * {
-    color:#00ffff;
-    background-color:black;
+    color:#000000;
+    background-color:rgba(12, 226, 226, 0.651);
 }
 .text {
-    color:#00ffff;
+    color:#000000;
     font-weight:bold;
-    font-size: 22px;
-    font-family:Helvetica, sans-serif;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif ,Helvetica, sans-serif;
+    text-align: center;
 }
 
 .links {
-    color:#8a2be2;
-    background-color:#ffffff;
+    color: #060af7;
+    background-color: #060af700;
+    padding: 10px;
+    border: 5px;
+    border-style: solid;
+    border-color: #b30d89;
+    display: inline-block;
+    margin: 2px;
 }
 
-#excuse {
+.excuse {
     color:yellow;
     background-color:red;
-    font-size:22px;
+    font-size:20px;
+    padding: red 28px ;
+    border: blue 2px ;
+    border-style: dashed;
+    margin: 1px;
+    text-align: center;
 }
 
 .odin {
-    height:auto;
-    width:400px;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}   
 
 .list li {
     color:green;
     font-size:18px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif ,Helvetica, sans-serif;
+    padding: ;
+    border: ;
+    margin: ;
+    
 }
 
 .note {
-    color:yellow;
-    background-color:red;
+    color:#c7f304;
+    background-color:rgba(255, 0, 221, 0.548);
     font-weight:700;
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(236, 10, 180);
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    border: 2px rgb(55, 0, 255);
+    border-style: groove;
+    
+}
+
+.power {
+    color: rgb(238, 255, 0);
+    display: inline-block;
+    text-transform: uppercase;
 }
