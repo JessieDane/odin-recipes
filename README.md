@@ -54,3 +54,13 @@ rewarding, but i do need more time spend on figuring out the cascade of css.
 i understand the principle, but in practise this hasn't settled yet.
 
 Jessie D.
+
+css exercise 2.
+in this final css exercise i need to finish styling with css and work with the box models.
+block-boxes, inline-boxes or a combo of them.
+i do feel that the previous lessons were too much read-heavy and far less do-heavy and it didn't really settle in just yet, as evident by the previous assignment.
+i do understand the principles behind it, but i'm not really well known with the tools i have at my disposal and the options they bring.
+after this i hope to have a better feel for it.
+let's get to it!
+
+Jessie D.
